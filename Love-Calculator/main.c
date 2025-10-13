@@ -75,9 +75,3 @@ int main()
   } 
   return 0;
 }
-
-
-/* created by NemoNet aka The Young Programmer 🏅
-in collaboration with tigertv 🐯 
-pls kindly follow me on github OR
-give me a star 🌟  */
