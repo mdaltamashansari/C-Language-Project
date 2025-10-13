@@ -1,7 +1,3 @@
-// Autor : Nemonet TYP
-// Title: Tic Tac Toe Game project in C
-// PROJECT FOR C/C++ PROGRAMMING TUTORIAL
-
 
 #include<stdio.h>
 #include<conio.h>
